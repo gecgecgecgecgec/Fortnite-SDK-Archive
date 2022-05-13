@@ -4,7 +4,7 @@ An SDK (Software Development Kit) is a set of tools that provides a developer wi
 # How can I help?
 If you have a SDK (public or not public). You can Send them to me on Discord (sparmage#7050) or make a Pull Request. I'd appriceate it! (The SDK has be in a zip file because github only allows 100 max file/folder upload)
 
-#Broken SDK's - no need to use them, you could probably try to fix if you have time ig
+# Broken SDK's - no need to use them, you could probably try to fix if you have time ig
 16.00
 
 # Contributors
